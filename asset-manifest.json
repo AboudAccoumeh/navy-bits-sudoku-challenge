@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/navy-bits-sudoku-challenge/static/css/main.9a70d956.css",
+    "main.js": "/navy-bits-sudoku-challenge/static/js/main.9f8d85f3.js",
+    "static/js/453.ca71dcc4.chunk.js": "/navy-bits-sudoku-challenge/static/js/453.ca71dcc4.chunk.js",
+    "static/media/woodenBackground.jpg": "/navy-bits-sudoku-challenge/static/media/woodenBackground.a1244e9c4a790c7239d2.jpg",
+    "index.html": "/navy-bits-sudoku-challenge/index.html",
+    "main.9a70d956.css.map": "/navy-bits-sudoku-challenge/static/css/main.9a70d956.css.map",
+    "main.9f8d85f3.js.map": "/navy-bits-sudoku-challenge/static/js/main.9f8d85f3.js.map",
+    "453.ca71dcc4.chunk.js.map": "/navy-bits-sudoku-challenge/static/js/453.ca71dcc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a70d956.css",
+    "static/js/main.9f8d85f3.js"
+  ]
+}
